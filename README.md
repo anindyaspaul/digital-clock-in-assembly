@@ -1,3 +1,3 @@
 # Digital Clock in assembly [Educational Project]
 
-Digital Clock developed in assembly language.
+ An elegant digital clock written in x86 assembly language
